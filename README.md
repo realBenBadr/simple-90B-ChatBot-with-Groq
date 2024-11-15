@@ -44,7 +44,7 @@ cd ai-assistant-chat
 
 2. **Install dependencies**
 
-ash
+bash
 npm install
 
 
