@@ -173,6 +173,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/bananbenbadr) - banan.badr@gmail.com
+Your Name - [@bananbenbadr](https://twitter.com/bananbenbadr) - banan.badr@gmail.com
 
 Project Link: [GitHub]([https://github.com/yourusername/ai-assistant-chat](https://github.com/realBenBadr/simple-90B-ChatBot-with-Groq))
